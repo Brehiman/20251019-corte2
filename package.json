@@ -11,6 +11,7 @@
     "04-exercise": "node Ejercicios/04-exercise.js",
     "05-exercise": "node Ejercicios/05-exercise.js",
     "06-exercise": "node Ejercicios/06-exercise.js",
+    "07-exercise": "node Ejercicios/07-exercise.js",
     "08-exercise": "node Ejercicios/08-exercise.js"
 
   },
